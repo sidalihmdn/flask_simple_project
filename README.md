@@ -1,2 +1,2 @@
 # flask_simple_project
-I'm learning flask, so I put the project in gitHub,
+this is the base of an api that i never started
